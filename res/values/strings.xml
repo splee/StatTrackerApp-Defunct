@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Herons Stats Upload</string>
+    <string name="action_settings">Settings</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="share_button">Upload Stats</string>
+    <string name="sshot_desc">Stats screenshot</string>
+    <string name="app_desc">Uploads stats screenshot to Blue Herons Resistance stat tracker for OCR input.</string>
+    <string name="upload_uri"></string>
+
+</resources>
